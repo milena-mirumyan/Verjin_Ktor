@@ -25,6 +25,7 @@ Verjin Ktor is an iOS mobile application developed as a capstone project to redu
 - Lottie (via Swift Package Manager)
 - Apple Maps
 
+
 ## 🚧 Future Work
 
 - Backend integration for live inventory and user accounts
@@ -40,6 +41,8 @@ Verjin Ktor is an iOS mobile application developed as a capstone project to redu
 <img width="200" alt="4" src="https://github.com/user-attachments/assets/0a37e408-412e-4fb7-9ac7-f7fdc7edb613" />
 <img width="200" alt="5" src="https://github.com/user-attachments/assets/acdfff12-037a-4ed6-a75c-cb17f4ec3c0e" />
 <img width="200" alt="6" src="https://github.com/user-attachments/assets/edf30afd-44c5-4800-8182-c23c094fb8e3" />
+<img width="413" alt="8" src="https://github.com/user-attachments/assets/2c21d5ea-b4f0-444c-a7e0-a1271fc3256c" />
+<img width="411" alt="7" src="https://github.com/user-attachments/assets/82d84b88-4ace-4855-9e01-38f63d56d54b" />
 
 
 ## 🧑‍💻 Author
