@@ -1,0 +1,629 @@
+[
+    {
+      "id": "8",
+      "storeImage": "prepa_store.jpg",
+      "storeNameLabel": "Prepa",
+      "pickUpTime": "18:00 to 20:00",
+      "price": "1500",
+      "originalPrice": "2500",
+      "favoriteButton": false,
+      "category": "Organic",
+      "location": true,
+      "addressSpecific": "Prepa address, Yerevan",
+      "shortDecsription": "Clean and healthy organic food saved fresh.",
+      "description": "Prepa is all about mindful meals. From fiber rich breads to energy boosting bowls, everything is prepared using organic ingredients. Verjin Ktor helps you enjoy their fresh leftovers at a great price while supporting zero waste eating.",
+      "mysteryPot": [
+        {
+          "potImage": "logo.png",
+          "logo": "prepa_logo.jpg",
+          "count": 2,
+          "price": "1500",
+          "originalPrice": "2500",
+          "description": "A pair of clean label baked items such as organic bread slices or gluten free muffins.",
+          "ingredients": "Whole grain flour, almond milk, oats, chia, coconut sugar",
+          "dietPreference": "Organic and mostly vegetarian"
+        },
+        {
+          "potImage": "logo.png",
+          "logo": "prepa_logo.png",
+          "count": 1,
+          "price": "1800",
+          "originalPrice": "2600",
+          "description": "One hearty item like a veggie wrap or quinoa based power sandwich packed fresh today.",
+          "ingredients": "Spinach, hummus, quinoa, tomato, flax tortilla",
+          "dietPreference": "Organic and mostly vegetarian"
+        },
+        {
+          "potImage": "logo.png",
+          "logo": "prepa_logo.png",
+          "count": 5,
+          "price": "1600",
+          "originalPrice": "2400",
+          "description": "A generous variety pack with five healthy bites like energy bars, seed crackers or protein cookies.",
+          "ingredients": "Dates, sunflower seeds, sesame, buckwheat, maple syrup",
+          "dietPreference": "Organic and mostly vegetarian"
+        },
+        {
+          "potImage": "logo.png",
+          "logo": "prepa_logo.png",
+          "count": 3,
+          "price": "1400",
+          "originalPrice": "2300",
+          "description": "A trio of nutritious snacks like oat balls, gluten free cookies or banana bread slices.",
+          "ingredients": "Oats, banana, almond flour, flaxseed, cinnamon",
+          "dietPreference": "Organic and mostly vegetarian"
+        },
+        {
+          "potImage": "logo.png",
+          "logo": "prepa_logo.png",
+          "count": 4,
+          "price": "1200",
+          "originalPrice": "2000",
+          "description": "A clean snack pack with granola bites, baked veggie chips or fresh mini rolls.",
+          "ingredients": "Carrot, zucchini, coconut oil, sunflower seeds, herbs",
+          "dietPreference": "Organic and mostly vegetarian"
+        }
+      ],
+      "coordinate": {
+        "latitude": 40.18000,
+        "longitude": 44.51067
+      },
+      "rating": 5.0
+    },
+    {
+        "id": "5",
+        "storeImage": "marush_sweets_store.png",
+        "storeNameLabel": "Marush Sweets",
+        "pickUpTime": "18:00 to 20:00",
+        "price": "1500",
+        "originalPrice": "2500",
+        "favoriteButton": false,
+        "category": "Sweets",
+        "location": true,
+        "addressSpecific": "Marush Sweets address, Yerevan",
+        "shortDecsription": "Beautifully made desserts at a sweet price.",
+        "description": "Marush Sweets brings together tradition and flavor with every handmade dessert. Now with Verjin Ktor, you can enjoy their fresh leftovers in surprise boxes that are too good to waste.",
+        "mysteryPot": [
+            {
+                "potImage": "logo.png",
+                "logo": "marush_sweets_logo.png",
+                "count": 2,
+                "price": "1500",
+                "originalPrice": "2500",
+                "description": "Two fresh sweet pieces like cream rolls, cake bites, or tarts packed right before pickup.",
+                "ingredients": "May include cream, sponge, nuts, fruit glaze, chocolate",
+                "dietPreference": "Contains Dairy and Eggs"
+            },
+            {
+                "potImage": "logo.png",
+                "logo": "marush_sweets_logo.png",
+                "count": 4,
+                "price": "1300",
+                "originalPrice": "2100",
+                "description": "A surprise box of four assorted mini desserts, always made fresh and full of flavor.",
+                "ingredients": "Pastry cream, chocolate drizzle, fruit jam, vanilla layers",
+                "dietPreference": "Contains Dairy and Eggs"
+            }
+        ],
+        "coordinate": {
+            "latitude": 40.193847,
+            "longitude": 44.498119
+        },
+        "rating": 4.4
+    },
+    {
+      "id": "13",
+      "storeImage": "meat_store.png",
+      "storeNameLabel": "Meat",
+      "pickUpTime": "18:00 to 20:00",
+      "price": "1500",
+      "originalPrice": "2500",
+      "favoriteButton": false,
+      "category": "Burger",
+      "location": true,
+      "addressSpecific": "Meat address, Yerevan",
+      "shortDecsription": "Premium burgers packed fresh and ready to rescue.",
+      "description": "Meat is all about bold flavors and juicy patties. Their burgers are freshly made with quality ingredients and lots of character. Verjin Ktor helps you grab their unsold meals at a friendly price before the day ends.",
+      "mysteryPot": [
+        {
+          "potImage": "logo.png",
+          "logo": "meat_logo.png",
+          "count": 1,
+          "price": "1500",
+          "originalPrice": "2500",
+          "description": "One full size signature burger saved fresh and packed to go.",
+          "ingredients": "Angus beef, cheddar, tomato, onion, burger bun",
+          "dietPreference": "Contains meat and dairy"
+        },
+        {
+          "potImage": "logo.png",
+          "logo": "meat_logo.png",
+          "count": 2,
+          "price": "1700",
+          "originalPrice": "2600",
+          "description": "Two sliders or burger halves made with the same care as their full size versions.",
+          "ingredients": "Beef patty, grilled onion, cheese, mustard, bun",
+          "dietPreference": "Contains meat and dairy"
+        },
+        {
+          "potImage": "logo.png",
+          "logo": "meat_logo.png",
+          "count": 3,
+          "price": "1600",
+          "originalPrice": "2400",
+          "description": "Three part box with mini burgers or a burger plus fries and sauce.",
+          "ingredients": "House sauce, cheddar, beef, pickles, fries",
+          "dietPreference": "Contains meat and dairy"
+        },
+        {
+          "potImage": "logo.png",
+          "logo": "meat_logo.png",
+          "count": 4,
+          "price": "1400",
+          "originalPrice": "2200",
+          "description": "A combo of four burger items like wraps, bites or half burgers.",
+          "ingredients": "Grilled meat, crispy bun, fresh vegetables, cheese",
+          "dietPreference": "Contains meat and dairy"
+        },
+        {
+          "potImage": "logo.png",
+          "logo": "meat_logo.png",
+          "count": 5,
+          "price": "1300",
+          "originalPrice": "2100",
+          "description": "Five item box with fries, sauces and mixed burger cuts from today’s kitchen.",
+          "ingredients": "Burger cuts, garlic mayo, fries, sesame bun",
+          "dietPreference": "Contains meat and dairy"
+        },
+        {
+          "potImage": "logo.png",
+          "logo": "meat_logo.png",
+          "count": 6,
+          "price": "1800",
+          "originalPrice": "2700",
+          "description": "A surprise set of six items including loaded bites, sauces or smashed beef pieces.",
+          "ingredients": "Beef, cheese, aioli, soft bun, seasoning",
+          "dietPreference": "Contains meat and dairy"
+        }
+      ],
+      "coordinate": {
+        "latitude": 40.184160,
+        "longitude": 44.514235
+      },
+      "rating": 4.8
+    },
+    {
+      "id": "12",
+      "storeImage": "gustav_store.png",
+      "storeNameLabel": "Gustav",
+      "pickUpTime": "18:00 to 20:00",
+      "price": "1500",
+      "originalPrice": "2500",
+      "favoriteButton": false,
+      "category": "Burger",
+      "location": true,
+      "addressSpecific": "Gustav address, Yerevan",
+      "shortDecsription": "Top rated burgers packed fresh and ready to rescue.",
+      "description": "Gustav is known for serving some of the best burgers in the city. Each one is made with high quality ingredients and full flavor. With Verjin Ktor, you get a chance to rescue their unsold meals at the end of the day.",
+      "mysteryPot": [
+        {
+          "potImage": "logo.png",
+          "logo": "gustav_logo.png",
+          "count": 1,
+          "price": "1500",
+          "originalPrice": "2500",
+          "description": "One gourmet burger freshly made and packed to go. May come with fries or sauce if available.",
+          "ingredients": "Angus beef, tomato, cheddar, lettuce, brioche bun",
+          "dietPreference": "Contains meat and dairy"
+        },
+        {
+          "potImage": "logo.png",
+          "logo": "gustav_logo.png",
+          "count": 2,
+          "price": "1700",
+          "originalPrice": "2600",
+          "description": "Two juicy sliders or burger halves picked from today’s leftover selection.",
+          "ingredients": "Beef, caramelized onion, cheese, pickles, bun",
+          "dietPreference": "Contains meat and dairy"
+        },
+        {
+          "potImage": "logo.png",
+          "logo": "gustav_logo.png",
+          "count": 3,
+          "price": "1600",
+          "originalPrice": "2400",
+          "description": "Three part box with mini burger bites or one full burger plus side snacks.",
+          "ingredients": "Cheddar, beef patty, house sauce, sesame bun, wedges",
+          "dietPreference": "Contains meat and dairy"
+        },
+        {
+          "potImage": "logo.png",
+          "logo": "gustav_logo.png",
+          "count": 4,
+          "price": "1400",
+          "originalPrice": "2200",
+          "description": "A combo pack of four items including fries, wraps, or leftover half burgers.",
+          "ingredients": "Burger bread, grilled beef, veggies, dip or cheese",
+          "dietPreference": "Contains meat and dairy"
+        }
+      ],
+      "coordinate": {
+        "latitude": 40.189989,
+        "longitude": 44.516634
+      },
+      "rating": 4.3
+    },
+    {
+        "id": "1",
+        "storeImage": "pizzanini_store.png",
+        "storeNameLabel": "Pizzanini",
+        "pickUpTime": "18:00 - 20:00",
+        "price": "1500",
+        "originalPrice": "2500",
+        "favoriteButton": false,
+        "category": "Pizza",
+        "location": true,
+        "addressSpecific": "Pizzanini address, Yerevan",
+        "shortDecsription": "Save delicious artisan slices with our daily surprise boxes.",
+        "description": "Pizzanini is where pizza meets passion. Known for their handmade dough, rich sauces, and bold toppings, they prepare everything fresh daily. With Verjin Ktor, you can rescue their unsold pizza slices at the end of the day — still fresh, still delicious, just at a lower price. Join the food-saving movement with every tasty bite.",
+        "mysteryPot": [
+            {
+                "potImage": "logo.png",
+                "logo": "pizzanini_logo.png",
+                "count": 2,
+                "price": "1500",
+                "originalPrice": "2500",
+                "description": "Our mini box includes 2 surprise pizza slices: handcrafted and freshly packed, perfect for a light bite or snack.",
+                "ingredients": "May include mozzarella, tomato, bell pepper, mushrooms, olives, or herbs, all depending on today’s batch.",
+                "dietPreference": "Mostly Vegetarian",
+            },
+            {
+                "potImage": "logo.png",
+                "logo": "pizzanini_logo.png",
+                "count": 4,
+                "price": "1300",
+                "originalPrice": "2100",
+                "description": "A generous combo of 4 surprise slices featuring today’s unsold favorites — ideal for sharing or a satisfying solo meal.",
+                "ingredients": "Assorted toppings like cheese, sausage, vegetables, and seasonal specials depending on availability.",
+                "dietPreference": "Mixed",
+            },
+            {
+                "potImage": "logo.png",
+                "logo": "pizzanini_logo.png",
+                "count": 4,
+                "price": "1300",
+                "originalPrice": "2100",
+                "description": "Another mix of 4 freshly packed slices from today’s best unsold pizzas — perfect for curious foodies.",
+                "ingredients": "Selections vary: pesto, pepperoni, onion, garlic, mushrooms, cheese, and more.",
+                "dietPreference": "Flexible",
+            }
+        ],
+        "coordinate": {
+            "latitude": 40.188398,
+            "longitude": 44.521440
+        },
+        "rating": 4.2
+    }
+    ,
+    {
+        "id": "2",
+        "storeImage": "pizza_hut_store.png",
+        "storeNameLabel": "Pizza Hut",
+        "pickUpTime": "18:00 - 20:00",
+        "price": "1500",
+        "originalPrice": "2500",
+        "favoriteButton": false,
+        "category": "Pizza",
+        "location": true,
+        "addressSpecific": "Pizza Hut address, Yerevan",
+        "shortDecsription": "Get your favorite Pizza Hut slices through Verjin Ktor.",
+        "description": "Pizza Hut is a household name known for its signature crusts, bold flavors, and consistent quality. Thanks to Verjin Ktor, you can now enjoy freshly prepared but unsold pizza portions at a friendly price, helping reduce food waste while treating yourself to a classic favorite.",
+        "mysteryPot": [
+            {
+                "potImage": "logo.png",
+                "logo": "pizza_hut_logo.png",
+                "count": 2,
+                "price": "1500",
+                "originalPrice": "2500",
+                "description": "A small surprise combo from Pizza Hut. Includes 2 fresh slices saved from today’s surplus, still warm and full of flavor.",
+                "ingredients": "May include mozzarella, pepperoni, sweet corn, tomato, mushrooms, green pepper, and signature sauces.",
+                "dietPreference": "Vegetarian",
+                "shortDescription": "Verjin Ktor Mini Box",
+                "descriptionDetails": "Each box includes 2 slices chosen from today's leftover stock, perfect for a quick bite or a light lunch. Always fresh, always tasty."
+            },
+            {
+                "potImage": "logo.png",
+                "logo": "pizza_hut_logo.png",
+                "count": 2,
+                "price": "1600",
+                "originalPrice": "2400",
+                "description": "Another fresh combo of 2 Pizza Hut slices, a flavorful surprise ready for pickup.",
+                "ingredients": "Could include veggie pan pizza, cheesy crust, BBQ toppings, and more depending on the day’s leftovers.",
+                "dietPreference": "Vegetarian",
+                "shortDescription": "Hut Combo Box",
+                "descriptionDetails": "This combo offers a daily rotation of flavors, always made fresh, saved just before closing, and available through Verjin Ktor to reduce waste."
+            },
+            {
+                "potImage": "logo.png",
+                "logo": "pizza_hut_logo.png",
+                "count": 5,
+                "price": "1300",
+                "originalPrice": "2100",
+                "description": "A big box for true pizza lovers: 5 fresh slices rescued from going to waste, packed with flavor and variety.",
+                "ingredients": "A blend of classic and seasonal ingredients: cheese, sauces, crust variations, and toppings like mushrooms, jalapeños, or sausage.",
+                "dietPreference": "Vegetarian"
+            }
+        ],
+        "coordinate": {
+            "latitude": 40.181294,
+            "longitude": 44.515421
+        },
+        "rating": 4.3
+    },
+    {
+        "id": "4",
+        "storeImage": "papaya_store.png",
+        "storeNameLabel": "Papaya",
+        "pickUpTime": "18:00 to 20:00",
+        "price": "1500",
+        "originalPrice": "2500",
+        "favoriteButton": false,
+        "category": "Sweets",
+        "location": true,
+        "addressSpecific": "Papaya address, Yerevan",
+        "shortDecsription": "Fresh local sweets rescued daily.",
+        "description": "Papaya makes artisan desserts using high quality ingredients. With Verjin Ktor, you can grab surprise boxes of their fresh leftover sweets at the end of the day and help reduce waste.",
+        "mysteryPot": [
+            {
+                "potImage": "logo.png",
+                "logo": "papaya_logo.png",
+                "count": 2,
+                "price": "1500",
+                "originalPrice": "2500",
+                "description": "A small box with two freshly made desserts from today’s unsold items.",
+                "ingredients": "Chocolate, fruit, cream, pastry, nuts",
+                "dietPreference": "Contains Dairy and Eggs"
+            },
+            {
+                "potImage": "logo.png",
+                "logo": "papaya_logo.png",
+                "count": 5,
+                "price": "1000",
+                "originalPrice": "1800",
+                "description": "A mixed box of five pastries, rescued from today’s fresh display.",
+                "ingredients": "Eclairs, rolls, fruit tarts, sponge cakes",
+                "dietPreference": "Contains Dairy and Eggs"
+            },
+            {
+                "potImage": "logo.png",
+                "logo": "papaya_logo.png",
+                "count": 3,
+                "price": "1600",
+                "originalPrice": "2400",
+                "description": "A sweet combo of three handmade treats saved before closing.",
+                "ingredients": "Cream layers, chocolate, fruit glaze",
+                "dietPreference": "Contains Dairy and Eggs"
+            },
+            {
+                "potImage": "logo.png",
+                "logo": "papaya_logo.png",
+                "count": 4,
+                "price": "1400",
+                "originalPrice": "2200",
+                "description": "Four mini cake slices with fruit jam, custard, or nut toppings.",
+                "ingredients": "Mini cake slices with berry jam, custard, or nuts",
+                "dietPreference": "Contains Dairy and Eggs"
+            },
+            {
+                "potImage": "logo.png",
+                "logo": "papaya_logo.png",
+                "count": 2,
+                "price": "1200",
+                "originalPrice": "2000",
+                "description": "Two dessert cups filled with caramel, sponge, and cream.",
+                "ingredients": "Dessert cups with whipped cream, caramel, and sponge",
+                "dietPreference": "Contains Dairy and Eggs"
+            }
+        ],
+        "coordinate": {
+            "latitude": 40.179317,
+            "longitude": 44.518179
+        },
+        "rating": 5.0
+    }
+    ,
+    {
+      "id": "6",
+      "storeImage": "moms_little_bakery_store.png",
+      "storeNameLabel": "Mom’s Little Bakery",
+      "pickUpTime": "18:00 to 20:00",
+      "price": "1500",
+      "originalPrice": "2500",
+      "favoriteButton": false,
+      "category": "Sweets",
+      "location": true,
+      "addressSpecific": "Mom’s Little Bakery address, Yerevan",
+      "shortDecsription": "Homemade sweets saved fresh daily.",
+      "description": "Mom’s Little Bakery is known for comforting, handmade desserts that taste like home. With Verjin Ktor, you can grab their unsold treats at the end of the day, still fresh and delicious.",
+      "mysteryPot": [
+        {
+          "potImage": "logo.png",
+          "logo": "moms_little_bakery_logo.png",
+          "count": 2,
+          "price": "1500",
+          "originalPrice": "2500",
+          "description": "A compact sweet box featuring two homemade desserts like brownies or jam rolls.",
+          "ingredients": "Chocolate, pastry dough, seasonal jam, nuts",
+          "dietPreference": "Contains Dairy and Eggs"
+        },
+        {
+          "potImage": "logo.png",
+          "logo": "moms_little_bakery_logo.png",
+          "count": 4,
+          "price": "1000",
+          "originalPrice": "1800",
+          "description": "A surprise mix of four freshly made mini pastries picked from today’s leftovers.",
+          "ingredients": "Cream, vanilla, sponge cake, fruit filling",
+          "dietPreference": "Contains Dairy and Eggs"
+        },
+        {
+          "potImage": "logo.png",
+          "logo": "moms_little_bakery_logo.png",
+          "count": 1,
+          "price": "1000",
+          "originalPrice": "1800",
+          "description": "One large portion of a homemade cake or pie, saved just in time.",
+          "ingredients": "Butter, flour, egg, sugar, cream or jam",
+          "dietPreference": "Contains Dairy and Eggs"
+        },
+        {
+          "potImage": "logo.png",
+          "logo": "moms_little_bakery_logo.png",
+          "count": 3,
+          "price": "1200",
+          "originalPrice": "2000",
+          "description": "Three assorted sweets like cinnamon rolls, cream cups, or fruit pastries.",
+          "ingredients": "Cinnamon, cream, sponge base, nuts or fruit",
+          "dietPreference": "Contains Dairy and Eggs"
+        }
+      ],
+      "coordinate": {
+        "latitude": 40.186331,
+        "longitude": 44.510929
+      },
+      "rating": 4.7
+    },
+    {
+      "id": "11",
+      "storeImage": "black_angus_store.png",
+      "storeNameLabel": "Black Angus",
+      "pickUpTime": "18:00 to 20:00",
+      "price": "1500",
+      "originalPrice": "2500",
+      "favoriteButton": false,
+      "category": "Burger",
+      "location": true,
+      "addressSpecific": "Black Angus address, Yerevan",
+      "shortDecsription": "Classic burgers made fresh and packed for rescue.",
+      "description": "Black Angus is a go to spot for juicy burgers and crispy sides. With Verjin Ktor, you can grab a freshly packed leftover meal box that still hits the spot.",
+      "mysteryPot": [
+        {
+          "potImage": "logo.png",
+          "logo": "black_angus_logo.png",
+          "count": 1,
+          "price": "1500",
+          "originalPrice": "2500",
+          "description": "One complete burger meal rescued from today’s fresh prep. May include fries or sauce depending on availability.",
+          "ingredients": "Beef patty, lettuce, tomato, cheese, pickles, bun, potato side",
+          "dietPreference": "Contains meat and dairy"
+        }
+      ],
+      "coordinate": {
+        "latitude": 40.183775,
+        "longitude": 44.516517
+      },
+      "rating": 4.1
+    },
+    {
+      "id": "14",
+      "storeImage": "tokyoo_store.png",
+      "storeNameLabel": "Tokyoo",
+      "pickUpTime": "18:00 to 20:00",
+      "price": "1500",
+      "originalPrice": "2500",
+      "favoriteButton": false,
+      "category": "Sushi",
+      "location": true,
+      "addressSpecific": "Tokyoo address, Yerevan",
+      "shortDecsription": "Fresh sushi trays rescued before closing.",
+      "description": "Tokyoo brings the taste of modern Japanese flavors to Yerevan with handcrafted sushi rolls and fresh ingredients. Through Verjin Ktor, you can enjoy a surprise box of their unsold pieces while reducing food waste.",
+      "mysteryPot": [
+        {
+          "potImage": "logo.png",
+          "logo": "tokyoo_logo.png",
+          "count": 2,
+          "price": "1500",
+          "originalPrice": "2500",
+          "description": "Two assorted sushi rolls freshly made and packed before closing. May include soy sauce or wasabi.",
+          "ingredients": "Rice, salmon, cucumber, avocado, nori, soy sauce",
+          "dietPreference": "Contains fish and seafood"
+        },
+        {
+          "potImage": "logo.png",
+          "logo": "tokyoo_logo.png",
+          "count": 3,
+          "price": "1000",
+          "originalPrice": "1800",
+          "description": "A trio of mixed nigiri or maki selected from today’s leftovers.",
+          "ingredients": "Tuna, salmon, nori, rice, sesame, soy or ginger",
+          "dietPreference": "Contains fish and seafood"
+        },
+        {
+          "potImage": "logo.png",
+          "logo": "tokyoo_logo.png",
+          "count": 5,
+          "price": "1600",
+          "originalPrice": "2400",
+          "description": "A five piece box including a variety of sushi rolls with fish or vegetables, depending on the day.",
+          "ingredients": "Shrimp, seaweed, cream cheese, cucumber, rice, eel sauce",
+          "dietPreference": "Contains fish and seafood"
+        }
+      ],
+      "coordinate": {
+        "latitude": 40.183630,
+        "longitude": 44.522617
+      },
+      "rating": 3.9
+    },
+    {
+      "id": "15",
+      "storeImage": "mao_store.png",
+      "storeNameLabel": "Mao",
+      "pickUpTime": "18:00 to 20:00",
+      "price": "1500",
+      "originalPrice": "2500",
+      "favoriteButton": false,
+      "category": "Sushi",
+      "location": true,
+      "addressSpecific": "Mao address, Yerevan",
+      "shortDecsription": "Tasty sushi rolls packed and rescued daily.",
+      "description": "Mao blends traditional Japanese sushi with modern flair. With Verjin Ktor, you can enjoy fresh sushi sets saved before the end of the day and help reduce food waste.",
+      "mysteryPot": [
+        {
+          "potImage": "logo.png",
+          "logo": "mao_logo.png",
+          "count": 2,
+          "price": "1500",
+          "originalPrice": "2500",
+          "description": "Two pieces of fresh sushi rolls packed and ready to go. Ideal for a light bite or quick dinner.",
+          "ingredients": "Salmon, avocado, rice, seaweed, soy sauce",
+          "dietPreference": "Contains fish and seafood"
+        },
+        {
+          "potImage": "logo.png",
+          "logo": "mao_logo.png",
+          "count": 1,
+          "price": "1800",
+          "originalPrice": "2600",
+          "description": "A full sushi set with a mix of rolls and toppings based on today’s remaining pieces.",
+          "ingredients": "Shrimp, crab, cream cheese, rice, sesame",
+          "dietPreference": "Contains fish and seafood"
+        },
+        {
+          "potImage": "logo.png",
+          "logo": "mao_logo.png",
+          "count": 3,
+          "price": "1000",
+          "originalPrice": "1800",
+          "description": "Three assorted sushi pieces chosen from today’s fresh tray. Packed just before closing.",
+          "ingredients": "Tuna, seaweed, rice, ginger, sauce",
+          "dietPreference": "Contains fish and seafood"
+        }
+      ],
+      "coordinate": {
+        "latitude": 40.188611,
+        "longitude": 44.519733
+      },
+      "rating": 3.8
+    }
+]

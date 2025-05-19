@@ -1,0 +1,37 @@
+{
+  "configurations" : [
+    {
+      "id" : "0368BF5E-13D4-4DE4-A419-B0C2C517E905",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:Capstone.xcodeproj",
+      "identifier" : "0541A9DC2D91570500450717",
+      "name" : "Capstone"
+    }
+  },
+  "testTargets" : [
+    {
+      "parallelizable" : true,
+      "target" : {
+        "containerPath" : "container:Capstone.xcodeproj",
+        "identifier" : "0541A9F22D91570700450717",
+        "name" : "CapstoneTests"
+      }
+    },
+    {
+      "parallelizable" : true,
+      "target" : {
+        "containerPath" : "container:Capstone.xcodeproj",
+        "identifier" : "0541A9FC2D91570700450717",
+        "name" : "CapstoneUITests"
+      }
+    }
+  ],
+  "version" : 1
+}
